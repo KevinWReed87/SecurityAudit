@@ -1,4 +1,4 @@
-<h2>Security Audit-Botium Toys</h2>
+<h1>Security Audit-Botium Toys</h1>
 
 
 Welcome to the Botium Toys Security Audit GitHub repository. This repository has been established to conduct a comprehensive security audit for Botium Toys, a fictional company specializing in the design and production of innovative toys and gadgets. At Botium Toys, we prioritize the safety and security of our products, customer data, and digital infrastructure, and this audit aims to ensure that these aspects are safeguarded effectively.
@@ -13,7 +13,7 @@ I wanted to share an update regarding our ongoing security audit project at Boti
 
 To provide a more comprehensive view, here's a breakdown of our goals and the associated risks we've identified:
 
-Goals:
+<b>Goals:<b>
 
 Enhancing Security Posture: Our foremost goal is to bolster Botium Toys' security posture. This entails aligning our practices with industry standards and best practices to ensure the safety of our digital assets.
 
@@ -39,7 +39,7 @@ Thank you for your attention to this crucial initiative. We look forward to work
 
 Sincerely,
 
-[Your Name]
+[Kevin Reed]
 Botium Toys Security Audit Team
 
 <h2>Controls Assesment</h2>
@@ -55,3 +55,10 @@ Botium Toys Security Audit Team
 
 
 <h2>Compliance Checklist</h2>
+
+<img src="https://i.imgur.com/ZO0u2YR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>  
+
+<img src="https://i.imgur.com/LgkwTGE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>  
+
+
+
