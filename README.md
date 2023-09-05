@@ -6,4 +6,10 @@ Welcome to the Botium Toys Security Audit GitHub repository. This repository has
 <h2>Example of security audit</h2>
 
 
-https://i.imgur.com/3sEdIZy.png
+<img src="https://i.imgur.com/POakaWk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>  
+
+<img src="https://i.imgur.com/lwOjjrs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>  
+
+<img src="https://i.imgur.com/N5ZsGh1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>  
+
+<img src="https://i.imgur.com/S7m8BSz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>  
